@@ -27,7 +27,7 @@ export default function Page() {
             <meta name="description" content="每一杯奶昔都是調皮的小精靈，帶著獨特風味和趣味，準備驚喜你味蕾。萬萬不僅僅是一個名字，而是一種生活態度。每個細節都灑滿美學追求，從店內設計到產品包裝，每一吋都展現我們對生活的熱愛。"></meta>
             <link rel="icon" href="https://www.oneone.global/thumbnail-one-one.png" sizes="32x32" />
             <link rel="apple-touch-icon" href="https://www.oneone.global/thumbnail-one-one.png" />
-            <title>One One</title>
+            <title>Lissom</title>
             <meta charSet="utf-8" />
             <meta name="viewport" content="initial-scale=1.0, width=device-width" />
             </Head>
