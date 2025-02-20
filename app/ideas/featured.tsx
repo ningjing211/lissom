@@ -1,7 +1,7 @@
 import '@/app/ui/ideas/featured.css';
 
 const videoURLs = {
-    leftTopMotorcycle: '/left-top-motorcycle.mp4',
+    leftTopMotorcycle: '/left-top.mp4',
     rightTopHorse: '/right-top-horse.mp4',
     leftDownColors: '/left-down-colors.mp4',
     rightDownMan: '/right-down-man.mp4',

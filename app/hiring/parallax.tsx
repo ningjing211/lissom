@@ -129,10 +129,16 @@ export default function Parallax() {
            </div>
         </section>
 
-        <section  >
+        <section>
           <div className="parallax-vision-three">
-            <h2>期盼夥伴的加入</h2>
+            <h2>XXX</h2>
           </div>
+        </section>
+
+        <section className="section-words">
+          <div className="block">
+            <p><span className="first-character ny">清</span>清晰的長期戰略計劃來實現我們的願景和遠景，靈活應對市場變化、快速調整戰略方向，以及利用數據分析和市場洞察來指導決策。這些計劃包括市場擴展、技術創新、客戶服務和公司運營的改進。我們的航行策略則著重於靈活應對市場變化，利用數據和市場洞察來指導決策，確保我們在競爭中持續成功。</p>
+           </div>
         </section>
 
 

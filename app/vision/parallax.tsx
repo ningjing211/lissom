@@ -31,15 +31,14 @@ export default function Parallax() {
         </section>
         <section  id="origin">
           <div className="parallax-vision-one  animate-fadeInUp">
-            <h2>Innovation</h2>
+            <h2>品質的美學</h2>
           </div>
         </section>
         
         <section className="section-words">
           <div id="story" className="block">
             <p>
-              <span className="first-character ny">我
-              </span>們的故事始於對奶昔的熱愛與追求。在台灣，我們發現享受奶昔的體驗通常伴隨著高價格。為了讓更多人能以親民的價格品味到美味的奶昔，我們聚集了一群志同道合的夥伴，共同創建了一間當代新潮的奶昔店。
+            我們相信，家具不只是物件，而是時間與情感的容器。Lissom 以永續設計、智能工藝與精準管理，為未來的家居美學奠定新標準。我們的願景，是讓家具不只是裝飾，而是真正提升生活品質的夥伴，讓設計兼具美感與功能，讓生產尊重環境與人文。我們深耕城市，服務人群，將每一件作品化為家的延伸，為世界帶來更高效、更溫潤、更具意義的生活提案，讓美好，長久流轉。
             </p>
           </div>
         </section>
@@ -138,22 +137,30 @@ export default function Parallax() {
 
         <section>
           <div className="parallax-vision-two  animate-slideInLeft">
-            <h2>未來航行</h2>
+            <h2>當代築基與前沿規劃</h2>
           </div>
         </section>
 
         <section className="section-words">
           <div className="block">
-            <p><span className="first-character ny">清</span>清晰的長期戰略計劃來實現我們的願景和遠景，靈活應對市場變化、快速調整戰略方向，以及利用數據分析和市場洞察來指導決策。這些計劃包括市場擴展、技術創新、客戶服務和公司運營的改進。我們的航行策略則著重於靈活應對市場變化，利用數據和市場洞察來指導決策，確保我們在競爭中持續成功。</p>
+          <p>
+          打破空間界限，讓建築與家具成為生活的延伸。從經典汲取靈感，轉譯融合、動態結構與環保材料的結合想像，提前一步準備未來家居提案。設計應是靈活且具有個性，每一件家具不只是靜態存在，而是能夠適應現代空間變化、提升使用者體驗的有機構造。以創新思維，為城市與人居帶來更高效、靈動且前衛的居住美學。
+          </p>
            </div>
         </section>
 
-        <section  >
+        <section>
           <div className="parallax-vision-three  animate-zoomIn">
-            <a href="/hiring">
-              <h2>期盼夥伴的加入</h2>
-            </a>
+            <h2>共鳴的家具</h2>
           </div>
+        </section>
+
+        <section className="section-words">
+          <div className="block">
+            <p>
+            每一輕妝點都以獨特的韻律生長，交錯、延展、共鳴，如同劇場舞者在空間中流動。里山以這種自然秩序為靈感，打造能夠與環境共鳴的家具設計，姿態大氣流暢、結構端莊，讓空間成為舞台，家具則是隨身體與生活律動的夥伴。為了遊戲角色，創造能夠適應人的情緒溫床、變化自如的軟糖，讓家如同生命體般，擁有呼吸的節奏，與生活共舞，拍打與時光共生。
+            </p>
+           </div>
         </section>
 
 

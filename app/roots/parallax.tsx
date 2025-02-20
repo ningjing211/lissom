@@ -31,45 +31,46 @@ export default function Parallax() {
         </section>
         <section  id="origin">
           <div className="parallax-roots-one animate-fadeInUp">
-            <h2>有趣的生活提案</h2>
+            <h2>細緻的提案選擇
+</h2>
           </div>
         </section>
         
         <section className="section-words">
           <div id="story" className="block">
             <p>
-              <span className="first-character ny">因
-              </span>因為想要有一個調皮, 有趣的生活提案, 
-我們專注的語彙, 是品牌觀念, 美學, 科技應用, 無邊界整合能力,
-我們想要藉由調皮去透露這些
-讓日常的產品(奶昔, 話題性)可與消費者產生互動。
+            生活，不該只是例行公事，而是充滿靈感的提案。Lissom 將家具視為遊戲場，從一張桌子的形狀到椅子的角度，每個細節都是設計的對話，也是對生活方式的重新想像。我們在木紋裡尋找故事，在結構中探索趣味，讓空間不只是居所，而是靈感發酵的溫床。當家具不再只是「擺設」，而是讓人驚喜的夥伴，每一天，都能是一場自在優雅、富有創意的生活實驗。
             </p>
           </div>
         </section>
         
         <section>
           <div className="parallax-roots-two animate-slideInLeft">
-            <h2>擁抱世界的愛</h2>
+            <h2>日常質地的細緻培養
+</h2>
           </div>
         </section>
 
         <section className="section-words">
           <div className="block">
-            <p><span className="first-character ny">萬</span>萬不僅是回憶與經驗的記錄，也是分享、對話與敞開，更是在日常生活中隨機產生的獨一無二行為藝術。一絲調皮與態度，我們的品牌願與您分享無限的樂趣和創意。我們的董事長曾遊歷世界，深諳藝術與歷史，這不僅是我們的優勢，更是我們品牌的靈感來源。這些珍貴的經歷豐富了我們的品牌理念，使科技與美學完美融合在每一個產品中。</p>
-           </div>
+            <p>
+            家的故事，從一張桌子開始延展，從一把椅子的陪伴逐漸豐滿。Lissom 深信，真正的家具不只是擺放於空間之中，而是參與日常、記錄情感的存在。晨光下的早餐時光、深夜燈光下的交談、孩子在木質地板上畫下的第一筆塗鴉——這些片刻交織成家的記憶。我們以細膩工藝與溫潤設計，讓家具成為家的溫度，讓每個回家的瞬間，都充滿柔和的情感與生活的詩意。
+            </p>
+            </div>
         </section>
 
         <section  >
           <div className="parallax-roots-three animate-zoomIn">
-            <h2>創意的本質</h2>
+            <h2>深根於城市，服務人群</h2>
           </div>
         </section>
 
         <section className="section-words">
           <div className="block">
-            <p><span className="first-character ny">當</span>
-            生活需要一點調皮的態度，我們的品牌站在這裡，帶來無限樂趣和創意。透過豐富的經驗，我們將品牌理念的獨特詮釋與科技與美學的完美融合，帶入每一個產品。讓我們的產品，像是那杯令人驚豔的奶昔，成為你生活中最亮眼的話題之一！</p>
-           </div>
+            <p>
+            城市，是我們的養分，也是我們服務的起點。Lissom 不僅打造家具，更希望為每個生活在城市中的人，創造一處能夠真正放鬆的空間。我們汲取都市的節奏，結合細膩工藝與智能設計，讓家具適應不同居住方式，無論是靜謐的一隅，還是熱鬧的聚會場域。我們深知，每張桌椅背後都有一個故事，每個家都是繁忙城市中的避風港，因此我們專注設計能夠與生活共鳴的作品，讓家具成為溫暖人心的陪伴者。
+            </p>
+          </div>
         </section>
 
       </div>
