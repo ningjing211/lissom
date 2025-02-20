@@ -78,7 +78,7 @@ export default function Parallax() {
         <section  className="section-words">
           <div className="block">
 
-            {/* <div className="sub-title">和 One One 在一起的日子</div> */}
+            {/* <div className="sub-title">和 Lissom 在一起的日子</div> */}
             <p>那一座被晨霧輕撫的山谷，芬芳的空氣透過細膩的蕾絲窗紗滑入，木質調的空間沉穩如調香師手中的琥珀，萬千層層交疊，世界柔和卻不失個性。編織的藤草椅，一針一線，三敲四打，嘎吱嚓啦手工流蘇，在光影流轉間展現靈動韻律，每一隻昆蟲路過的原木，如嫩芽般隨匠人的靈魂長出每一道紋理，哪怕是曾經為時間流連的光影，生活，一場無需妥協的藝術，我們以設計賦予室內靈魂，讓每一件個體都如精靈般，為您的空間舞出獨一無二的交響。</p>
            </div>
         </section>

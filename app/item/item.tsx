@@ -16,7 +16,7 @@ export default function Item() {
                 18 July 2024
                 </p>
                 {/* <h2 className="item-title">
-                和 One One 在一起的日子
+                和 Lissom 在一起的日子
                 </h2> */}
                 <p className="item-words">
                 每一天像每一生的入口，冰天極地的帝造比例消融在我們主觀的奶昔表裡，品質兩字在平行兩線騁馳，陽光與土壤生生不息映照在貌似咖啡豆與茶葉的載體裡，蟲鳴鳥叫稍微或可以偶爾在你對面的戀人耳蝸經過。我們以時間為經，空間為緯，織沐出一個你能體驗自身美好創造的轉瞬即逝。{' '}
@@ -36,7 +36,7 @@ export default function Item() {
                 30 June 2024
                 </p>
                 <h2 className ="item-title">
-                One One 的靈魂
+                Lissom 的靈魂
                 </h2>
                 <p className="item-words">
                 常說圓心代表位於我們存在最深處的核心，待表我們的外部覺知。我們試著把注意力定念在擇、沖、放、裹每一個細小的支線與行動上，無思無想的從容，讓純淨的品質可以流露，我們長期聆聽自身內心的聲音，開創出荒野間靜候的小徑。一種生活的態度截然展開。

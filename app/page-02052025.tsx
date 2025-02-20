@@ -24,7 +24,7 @@ export default function Page() {
             <meta property="og:image:width" content="1200"></meta>
             <meta property="og:image:height" content="600"></meta>
             <meta property="og:locale" content="zh_TW"></meta>
-            <meta name="description" content="每一杯奶昔都是調皮的小精靈，帶著獨特風味和趣味，準備驚喜你味蕾。萬萬不僅僅是一個名字，而是一種生活態度。每個細節都灑滿美學追求，從店內設計到產品包裝，每一吋都展現我們對生活的熱愛。"></meta>
+            <meta name="description" content="純粹而極致的設計，勾勒出空間的尊貴格調。高品質木材與精湛工藝相結合，每一筆紋理皆訴說著時光的故事。這不只是家具，而是一種生活態度。"></meta>
             <link rel="icon" href="https://www.oneone.global/thumbnail-one-one.png" sizes="32x32" />
             <link rel="apple-touch-icon" href="https://www.oneone.global/thumbnail-one-one.png" />
             <title>Lissom</title>

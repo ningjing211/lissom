@@ -14,7 +14,7 @@ export default function Page() {
     return (
           <div> 
             <Head>
-              <title>One One</title>
+              <title>Lissom</title>
               <meta charSet="utf-8" />
               <meta name="viewport" content="initial-scale=1.0, width=device-width" />
               <meta property="og:image:secure_url" content="/thumbnail-one-one.png" />

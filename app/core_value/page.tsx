@@ -14,7 +14,7 @@ export default function Page() {
             <link rel="icon" href="/thumbnail-one-one.png" sizes="32x32" />
             <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;700;800;900&display=swap" rel="stylesheet" />
             <link rel="apple-touch-icon" href="/thumbnail-one-one.png" />
-            <title>One One</title>
+            <title>Lissom</title>
             <meta charSet="utf-8" />
             <meta name="viewport" content="initial-scale=1.0, width=device-width" />
             </Head>
