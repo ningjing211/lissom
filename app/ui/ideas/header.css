@@ -114,6 +114,7 @@ p{
   text-transform: uppercase;
 }
 
+
 .header-menu li.active {
   background-color: #a07caf;
   color: white;
@@ -131,8 +132,8 @@ color: white;
 }
 
 .header-menu-link:hover{
-  /* color: var(--dark-color);
-  text-decoration: underline; */
+  /* color: var(--dark-color); */
+  text-decoration: underline;
 }
 .ghost-button{
   border: .125em solid var(--gray-color);
