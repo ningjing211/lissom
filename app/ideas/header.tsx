@@ -48,9 +48,9 @@ export default function Header() {
                 <li>
                     <a
                     className="header-menu-link"
-                    href="/news"
+                    href="/blog"
                     >
-                    News
+                    Blog
                     </a>
                 </li>
                 </ul>
