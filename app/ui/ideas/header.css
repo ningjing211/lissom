@@ -186,6 +186,7 @@ color: white;
   
   /* CONTAINERS STYLES */
   .container{
+    font-size: 14px;
     padding: 2em 0;
   }
   
