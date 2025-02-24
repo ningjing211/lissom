@@ -48,7 +48,7 @@ export default function Header() {
                 <li>
                     <a
                     className="header-menu-link"
-                    href="/blog"
+                    href="/blog/index.html"
                     >
                     Blog
                     </a>
