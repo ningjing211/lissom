@@ -12,7 +12,7 @@
     display: grid;
     grid-template-rows: auto 1fr auto;
     font-size: 14px;
-    background-color: #f4f4f4;
+    background-color: #e8e5e1;
     align-items: start;
     min-height: 100vh;
   }
@@ -28,7 +28,7 @@
   
   .footer > * {
     flex:  1 100%;
-    color: white;
+    color: #e8e5e1;
   }
 
   .footer-group-left {
@@ -109,7 +109,7 @@
     height: 36px;
     max-width: max-content;
     background-color: #3a3a3a;
-    color: white;
+    color: #e8e5e1;
     border-radius: 6px;
     line-height: 0;
     margin: 0.6em 0;
@@ -161,13 +161,13 @@
   }
     
   .legal__links {
-    color: white;
+    color: #e8e5e1;
     display: flex;
     align-items: center;
   }
   
   .heart {
-    color: white;
+    color: #e8e5e1;
   }
   
   @media screen and (min-width: 24.375em) {

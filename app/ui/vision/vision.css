@@ -145,7 +145,7 @@
 .implement > p,
 .develop > p,
 .deliver > p {
-    color: white;
+    color: #e8e5e1;
     font-size: 1rem !important;
     line-height: 2rem !important;
 }

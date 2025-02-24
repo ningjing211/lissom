@@ -106,7 +106,7 @@ p{
 
 .header-menu-link{
   /* color: var(--gray-color); */
-  color: white;
+  color: #e8e5e1;
   display: block;
   font-size: 1em;
   font-weight: 500;
@@ -117,7 +117,7 @@ p{
 
 .header-menu li.active {
   background-color: #a07caf;
-  color: white;
+  color: #e8e5e1;
   display: flex;
   align-content: center;
   justify-content: center;
@@ -128,7 +128,7 @@ p{
 }
 
 .header-menu li.active a {
-color: white;
+color: #e8e5e1;
 }
 
 .header-menu-link:hover{
@@ -264,8 +264,8 @@ color: white;
 
   .header-menu li.active {
     border-bottom: 2px solid #a07caf;
-    border-left: 6px solid #f4f4f4;
-    border-right: 6px solid #f4f4f4;  
+    border-left: 6px solid #e8e5e1;
+    border-right: 6px solid #e8e5e1;  
   }
 
 

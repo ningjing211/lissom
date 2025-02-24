@@ -17,7 +17,7 @@
 #parallax-world-of-ugg h2 {font-family:'Oswald', sans-serif; font-size:70px; letter-spacing:10px; text-align:center; color:white; font-weight:400; text-transform:uppercase; z-index:10; opacity:.9;}
 #parallax-world-of-ugg h3 {margin-bottom: 7px; font-family:'Oswald', sans-serif; font-size:14px; line-height:0; font-weight:400; letter-spacing:8px; text-transform: uppercase; color:black;}
 #parallax-world-of-ugg p {
-  color:#565452;font-family: 'Noto Sans TC';
+  color:#322A24;font-family: 'Noto Sans TC';
   font-weight: 500; font-size:24px; line-height:50px;}.first-character {font-weight:400; float: left; font-size: 84px; line-height: 64px; padding-top: 4px; padding-right: 8px; padding-left: 3px; font-family: 'Source Sans Pro', sans-serif;}
 
 .sc {color: #3b8595;}
@@ -28,7 +28,7 @@
 /**************************/
 #parallax-world-of-ugg .title {
   font-family: 'Noto Sans TC';
-  background: white; padding: 54px; margin:0 auto; text-align:center;
+  background: #e8e5e1; padding: 54px; margin:0 auto; text-align:center;
 }
 #parallax-world-of-ugg .title h1 {
   font-family: 'Noto Sans TC';
@@ -101,7 +101,7 @@
   }
 
   #parallax-world-of-ugg p {
-    color:#565452;
+    color:#322A24;
     font-size: 21px;
     line-height: 42px;
   }
@@ -114,7 +114,7 @@
 @media screen and (max-width: 479px) {
   #parallax-world-of-ugg .title {
     background-color: transparent;
-    color: #565452;
+    color: #322A24;
   }
   
   .animate-fadeInUp, .animate-slideInLeft, .animate-zoomIn {
@@ -142,7 +142,7 @@
     font-size: 52px;
   }
   #parallax-world-of-ugg p {
-    color:#565452;
+    color:#322A24;
     font-size: 18px;
     line-height: 36px;
   }

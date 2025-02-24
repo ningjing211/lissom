@@ -38,7 +38,7 @@ a {
   height: 20em;
   width: 15em;
   font-size: 1.5em;
-  color: white;
+  color: #e8e5e1;
   border-radius: 1em;
   padding: 1em;
   /*margin: 2em;*/
@@ -87,7 +87,7 @@ a {
 
 .card:hover .tags .tag {
   background: var(--color);
-  color: white;
+  color: #e8e5e1;
 }
 
 .card .date {
@@ -120,7 +120,7 @@ a {
 }
 
 .card:after {
-  background: white;
+  background: #e8e5e1;
   width: 200%;
   height: 200%;
 }

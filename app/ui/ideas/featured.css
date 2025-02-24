@@ -71,7 +71,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 
 .heading-style-h4 {
 
-    color: #565452;
+    color: #322A24;
     font-size: 3rem;
     font-weight: 500;
     line-height: 1.1;
@@ -270,7 +270,7 @@ video {
     background-color: transparent;
     -webkit-backdrop-filter: blur(5px);
     backdrop-filter: blur(5px);
-    color: white;
+    color: #e8e5e1;
     border-radius: 6px;
     margin-right: 8px;
     align-items: center;
@@ -433,7 +433,7 @@ svg #base4 {
     top: 10%;
     right: 6%;
     font-size: 3rem;
-    color: rgba(240, 240, 240, 0.9);
+    color: #e8e5e1;
     z-index: 1;
 }
 .first-link {

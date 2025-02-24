@@ -34,7 +34,7 @@
     font-size: 4.75rem;
     font-weight: 500;
     line-height: 105%;
-    color: #565452;
+    color: #322A24;
 }
 
 .spacer-small {
@@ -45,7 +45,7 @@
 .max-width-medium {
     width: 100%;
     max-width: 70rem;
-    color: #565452;
+    color: #322A24;
 }
 
 .text-size-large {
@@ -72,7 +72,7 @@ p {
     grid-row-gap: 6px;
     background: rgb(192,205,205);
 background: linear-gradient(30deg, rgba(192,205,205,1) 1%, rgba(83,199,200,1) 49%, rgba(76,248,250,1) 100%);
-    color: white;
+    color: #e8e5e1;
     font-family: 'Raleway';
     font-weight: 500;
     border-radius: 8px;
