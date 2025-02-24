@@ -488,7 +488,7 @@ h2, h3 {
 h1 {
   position: relative;
   z-index: 2;
-  margin: 0 0 1rem;
+  /* margin: 0 0 1rem; */
   width: 100%;
   font-size: 3.125rem;
   font-weight: 400;
