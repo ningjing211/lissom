@@ -28,8 +28,8 @@ export const metadata: Metadata = {
     locale: 'zh_TW',
   },
   icons: {
-    icon: 'https://www.oneone.global/thumbnail-one-one.png',
-    apple: 'https://www.oneone.global/thumbnail-one-one.png',
+    icon: 'https://lissom.vercel.app/thumbnail-lissom.png',
+    apple: 'https://lissom.vercel.app/thumbnail-lissom.png',
   }
 };
 

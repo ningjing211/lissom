@@ -64,7 +64,7 @@ article, aside, figcaption, figure, hgroup, main, nav, section {
 
 body {
   margin: 0;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Alice", "Montserrat", sans-serif;
   font-size: 14px;
   font-weight: 400;
   line-height: 1;
@@ -6555,7 +6555,7 @@ a.close.disabled {
   z-index: 1070;
   display: block;
   margin: 0;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Alice", "Montserrat", sans-serif;
   font-style: normal;
   font-weight: 400;
   line-height: 1.5;
@@ -6668,7 +6668,7 @@ a.close.disabled {
   z-index: 1060;
   display: block;
   max-width: 276px;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Alice", "Montserrat", sans-serif;
   font-style: normal;
   font-weight: 400;
   line-height: 1.5;
@@ -11799,7 +11799,7 @@ section .section-secondary-title {
 }
 *{
   box-sizing: border-box;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Alice", "Montserrat", sans-serif;
   line-height: 1;
   list-style: none;
   margin: 0;
@@ -11880,7 +11880,7 @@ p{
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   max-width: none;
-  background: #59534d;
+  background: url("/header-bg-desk.png");
 }
 .header-menu{
   flex-wrap: wrap;
@@ -12016,8 +12016,7 @@ color: #e8e5e1;
 
 @media screen and (max-width: 767px) {
   .logo {
-    background: rgb(219,117,172);
-    background: linear-gradient(125deg, rgba(219,117,172,1) 1%, rgba(168,116,172,1) 9%, rgba(134,151,181,1) 25%, rgba(87,185,198,1) 39%, rgba(53,218,223,1) 88%, rgba(117,159,209,1) 100%);
+    background: url("/header-bg-m.png"); 
   }
   .header-nav {
     background: none;
@@ -12448,3 +12447,16 @@ body {
   border-width: 8px 8px 0 8px;
   border-color: #e8e5e1 transparent transparent transparent;
 } */
+.my-2 {
+  text-align: left !important;
+}
+
+.alice-regular {
+  font-family: "Alice", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.header-menu-link {
+  font-size: 1.4em;
+}

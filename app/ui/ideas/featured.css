@@ -69,7 +69,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
     color: #888888;
 }
 
-.heading-style-h4 {
+.heading-style-h4  alice-regular {
 
     color: #322A24;
     font-size: 3rem;
@@ -326,7 +326,7 @@ video {
 
 
 @media screen and (max-width: 991px) {
-    .heading-style-h4 {
+    .heading-style-h4  alice-regular {
         font-size: 2.6rem;;
     }
 }
@@ -336,7 +336,7 @@ video {
         padding-top: 1.5rem;
         padding-bottom: .5rem;
     }
-    .heading-style-h4, .heading-style-h6 {
+    .heading-style-h4  alice-regular, .heading-style-h6 {
         display: none;
     }
     .special-section {

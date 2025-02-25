@@ -15,8 +15,8 @@ export default function Page() {
     return (
           <>
             <Head>
-            {/* <meta property="og:image:secure_url" content="https://www.oneone.global/thumbnail-one-one.png" /> */}
-            <meta name="msapplication-TileImage" content="https://www.oneone.global/thumbnail-one-one.png" />
+            {/* <meta property="og:image:secure_url" content="https://lissom.vercel.app/thumbnail-lissom.png" /> */}
+            <meta name="msapplication-TileImage" content="https://lissom.vercel.app/thumbnail-lissom.png" />
             <meta property="og:type" content="website" />
             <meta property="og:site_name" content="www.oneone.global"></meta>
             <meta property="og:url" content="https://www.oneone.global/"></meta>
@@ -25,8 +25,8 @@ export default function Page() {
             <meta property="og:image:height" content="600"></meta>
             <meta property="og:locale" content="zh_TW"></meta>
             <meta name="description" content="純粹而極致的設計，勾勒出空間的尊貴格調。高品質木材與精湛工藝相結合，每一筆紋理皆訴說著時光的故事。這不只是家具，而是一種生活態度。"></meta>
-            <link rel="icon" href="https://www.oneone.global/thumbnail-one-one.png" sizes="32x32" />
-            <link rel="apple-touch-icon" href="https://www.oneone.global/thumbnail-one-one.png" />
+            <link rel="icon" href="https://lissom.vercel.app/thumbnail-lissom.png" sizes="32x32" />
+            <link rel="apple-touch-icon" href="https://lissom.vercel.app/thumbnail-lissom.png" />
             <title>Lissom</title>
             <meta charSet="utf-8" />
             <meta name="viewport" content="initial-scale=1.0, width=device-width" />

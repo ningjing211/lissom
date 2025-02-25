@@ -15,7 +15,7 @@
 }
 *{
   box-sizing: border-box;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Alice", "Montserrat", sans-serif;
   line-height: 1;
   list-style: none;
   margin: 0;
@@ -93,10 +93,11 @@ p{
 .header-nav{
   align-items: center;
   flex-direction: column;
-  font-family: "Raleway", sans-serif;
+  font-family: "Alice", "Raleway", sans-serif;
   font-weight: 700;
   max-width: none;
-  background: #59534d;
+  /* background: #59534d; */
+  background-image: url('/header-bg-desk.png');
 }
 .header-menu{
   flex-wrap: wrap;
@@ -108,7 +109,7 @@ p{
   /* color: var(--gray-color); */
   color: #e8e5e1;
   display: block;
-  font-size: 1em;
+  font-size: 1.4em;
   font-weight: 500;
   padding: .5em .75em;
   text-transform: uppercase;
@@ -234,8 +235,9 @@ color: #e8e5e1;
 
 @media screen and (max-width: 767px) {
   .logo {
-    background: rgb(219,117,172);
-    background: linear-gradient(125deg, rgba(219,117,172,1) 1%, rgba(168,116,172,1) 9%, rgba(134,151,181,1) 25%, rgba(87,185,198,1) 39%, rgba(53,218,223,1) 88%, rgba(117,159,209,1) 100%);
+    /* background: rgb(219,117,172); */
+    /* background: linear-gradient(125deg, rgba(219,117,172,1) 1%, rgba(168,116,172,1) 9%, rgba(134,151,181,1) 25%, rgba(87,185,198,1) 39%, rgba(53,218,223,1) 88%, rgba(117,159,209,1) 100%); */
+    background-image: url("/header-bg-m.png");
   }
   .header-nav {
     background: none;

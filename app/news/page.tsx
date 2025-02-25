@@ -9,11 +9,12 @@ export default function Page() {
     return (
           <>
             <Head>
-            <meta property="og:image:secure_url" content="/thumbnail-one-one.png" />
-            <meta name="msapplication-TileImage" content="/thumbnail-one-one.png" />
-            <link rel="icon" href="/thumbnail-one-one.png" sizes="32x32" />
+            <meta property="og:image:secure_url" content="/thumbnail-lissom.png" />
+            <meta name="msapplication-TileImage" content="/thumbnail-lissom.png" />
+            <link rel="icon" href="/thumbnail-lissom.png" sizes="600x600" />
+            <link href="https://fonts.googleapis.com/css2?family=Alice&display=swap" rel="stylesheet"></link>
             <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;700;800;900&display=swap" rel="stylesheet" />
-            <link rel="apple-touch-icon" href="/thumbnail-one-one.png" />
+            <link rel="apple-touch-icon" href="/thumbnail-lissom.png" />
             <title>Lissom</title>
             <meta charSet="utf-8" />
             <meta name="viewport" content="initial-scale=1.0, width=device-width" />

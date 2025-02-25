@@ -15,10 +15,12 @@ export default function Page() {
     return (
           <>
             <Head>
-            <link rel="icon" href="/thumbnail-one-one.png" sizes="32x32" />
+            <link rel="icon" href="/thumbnail-lissom.png" sizes="600x600" />
+
+            <link href="https://fonts.googleapis.com/css2?family=Alice&display=swap" rel="stylesheet"></link>
             <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;700;800;900&display=swap" rel="stylesheet" />
             
-            <link rel="apple-touch-icon" href="/thumbnail-one-one.png" />
+            <link rel="apple-touch-icon" href="/thumbnail-lissom.png" />
             <link rel="preconnect" href="https://fonts.googleapis.com" />
             <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
             <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@100..900&display=swap" rel="stylesheet"/>

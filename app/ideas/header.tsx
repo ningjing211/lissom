@@ -15,7 +15,7 @@ export default function Header() {
                 <ul className="header-menu flex-container">
                 <li>
                     <a
-                    className="header-menu-link"
+                    className="header-menu-link alice-regular"
                     href="/philosophy"
                     >
                     Philo
@@ -23,7 +23,7 @@ export default function Header() {
                 </li>
                 <li>
                     <a
-                    className="header-menu-link"
+                    className="header-menu-link alice-regular"
                     href="/core_value"
                     >
                     Value
@@ -31,7 +31,7 @@ export default function Header() {
                 </li>
                 <li>
                     <a
-                    className="header-menu-link"
+                    className="header-menu-link alice-regular"
                     href="/roots"
                     >
                     Roots
@@ -39,7 +39,7 @@ export default function Header() {
                 </li>
                 <li>
                     <a
-                    className="header-menu-link"
+                    className="header-menu-link alice-regular"
                     href="/vision"
                     >
                     Vision
@@ -47,7 +47,7 @@ export default function Header() {
                 </li>
                 <li>
                     <a
-                    className="header-menu-link"
+                    className="header-menu-link alice-regular"
                     href="/blog/index.html"
                     >
                     Blog
