@@ -30,7 +30,7 @@ export default function Parallax() {
         </section>
         <section  id="origin">
           <div className="parallax-core_value-one animate-fadeInUp">
-            <h2>設計理念</h2>
+            <h2>沈靜品質</h2>
           </div>
         </section>
         

@@ -133,7 +133,7 @@ export default function Feature() {
                         </div> */}
                         </a>
                         <div className="work_tag-container">
-                        <div
+                        {/* <div
                             className="tag is-white"
                             style={{
                             rotate: 'none',
@@ -145,13 +145,13 @@ export default function Feature() {
                             <div>
                             Culture
                             </div>
-                        </div>
+                        </div> */}
                         <div className="w-dyn-list">
                             <div
                             className="services-tags w-dyn-items"
                             role="list"
                             >
-                            <div
+                            {/* <div
                                 className="tag w-dyn-item"
                                 role="listitem"
                                 style={{
@@ -178,7 +178,7 @@ export default function Feature() {
                                 <div>
                                 Imagine
                                 </div>
-                            </div>
+                            </div> */}
                             {/* <div
                                 className="tag w-dyn-item"
                                 role="listitem"
@@ -324,7 +324,7 @@ export default function Feature() {
                             className="services-tags w-dyn-items"
                             role="list"
                             >
-                            <div
+                            {/* <div
                                 className="tag w-dyn-item"
                                 role="listitem"
                                 style={{
@@ -337,7 +337,7 @@ export default function Feature() {
                                 <div>
                                 Team
                                 </div>
-                            </div>
+                            </div> */}
                             {/* <div
                                 className="tag w-dyn-item"
                                 role="listitem"
@@ -352,7 +352,7 @@ export default function Feature() {
                                 Design
                                 </div>
                             </div> */}
-                            <div
+                            {/* <div
                                 className="tag w-dyn-item"
                                 role="listitem"
                                 style={{
@@ -379,7 +379,7 @@ export default function Feature() {
                                 <div>
                                 AI
                                 </div>
-                            </div>
+                            </div> */}
                             </div>
                         </div>
                         </div>
@@ -502,14 +502,14 @@ export default function Feature() {
                             className="services-tags w-dyn-items"
                             role="list"
                             >
-                            <div
+                            {/* <div
                                 className="tag w-dyn-item"
                                 role="listitem"
                             >
                                 <div>
                                 Life
                                 </div>
-                            </div>
+                            </div> */}
                             {/* <div
                                 className="tag w-dyn-item"
                                 role="listitem"
@@ -518,7 +518,7 @@ export default function Feature() {
                                 Websites
                                 </div>
                             </div> */}
-                            <div
+                            {/* <div
                                 className="tag w-dyn-item"
                                 role="listitem"
                             >
@@ -533,7 +533,7 @@ export default function Feature() {
                                 <div>
                                 Essense
                                 </div>
-                            </div>
+                            </div> */}
                             {/* <div
                                 className="tag w-dyn-item"
                                 role="listitem"
@@ -653,17 +653,17 @@ export default function Feature() {
                         </div> */}
                         </a>
                         <div className="work_tag-container">
-                        <div className="tag is-white">
+                        {/* <div className="tag is-white">
                             <div>
                             Innovation
                             </div>
-                        </div>
+                        </div> */}
                         <div className="w-dyn-list">
                             <div
                             className="services-tags w-dyn-items"
                             role="list"
                             >
-                            <div
+                            {/* <div
                                 className="tag w-dyn-item"
                                 role="listitem"
                             >
@@ -678,7 +678,7 @@ export default function Feature() {
                                 <div>
                                 Partner
                                 </div>
-                            </div>
+                            </div> */}
                             {/* <div
                                 className="tag w-dyn-item"
                                 role="listitem"

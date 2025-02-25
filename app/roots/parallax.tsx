@@ -46,7 +46,7 @@ export default function Parallax() {
         
         <section>
           <div className="parallax-roots-two animate-slideInLeft">
-            <h2>日常質地的細緻培養
+            <h2>日常質地的反覆培養
 </h2>
           </div>
         </section>
