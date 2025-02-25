@@ -20,9 +20,9 @@ export const metadata: Metadata = {
     url: 'https://www.oneone.global/',
     images: [
       {
-        url: 'https://www.oneone.global/link-thumbnail.png',
-        width: 1200,
-        height: 630,
+        url: 'https://lissom.vercel.app/link-thumbnail.png',
+        width: 900,
+        height: 900,
       },
     ],
     locale: 'zh_TW',
