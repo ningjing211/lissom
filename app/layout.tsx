@@ -12,17 +12,17 @@ export const metadata: Metadata = {
   },
   description:
     '純粹而極致的設計，勾勒出空間的尊貴格調。高品質木材與精湛工藝相結合，每一筆紋理皆訴說著時光的故事。這不只是家具，而是一種生活態度。',
-  metadataBase: new URL('https://www.oneone.global'),
+  metadataBase: new URL('https://lissom.vercel.app'),
   applicationName: 'Lissom',
   openGraph: {
     type: 'website',
-    siteName: 'www.oneone.global',
-    url: 'https://www.oneone.global/',
+    siteName: 'lissom.vercel.app',
+    url: 'https://lissom.vercel.app/',
     images: [
       {
         url: 'https://lissom.vercel.app/link-thumbnail.png',
-        width: 900,
-        height: 900,
+        width: 1200,
+        height: 630,
       },
     ],
     locale: 'zh_TW',

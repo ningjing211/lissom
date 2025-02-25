@@ -18,8 +18,8 @@ export default function Page() {
             {/* <meta property="og:image:secure_url" content="https://lissom.vercel.app/thumbnail-lissom.png" /> */}
             <meta name="msapplication-TileImage" content="https://lissom.vercel.app/thumbnail-lissom.png" />
             <meta property="og:type" content="website" />
-            <meta property="og:site_name" content="www.oneone.global"></meta>
-            <meta property="og:url" content="https://www.oneone.global/"></meta>
+            <meta property="og:site_name" content="lissom.vercel.app"></meta>
+            <meta property="og:url" content="https://lissom.vercel.app/"></meta>
             <meta property="og:image" content="https://lissom.vercel.app/link-thumbnail.png"></meta>
             <meta property="og:image:width" content="1200"></meta>
             <meta property="og:image:height" content="600"></meta>
